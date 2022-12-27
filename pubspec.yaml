@@ -1,0 +1,41 @@
+name: women_safety_app
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+  carousel_slider: ^4.1.1
+  webview_flutter: ^3.0.4
+  flutter_phone_direct_caller: ^2.1.1
+  url_launcher: ^6.1.6
+  fluttertoast: ^8.1.1
+  firebase_core: ^2.1.0
+  firebase_auth: ^4.0.2
+  cloud_firestore: ^4.0.2
+  shared_preferences: ^2.0.15
+  permission_handler: ^10.2.0
+  contacts_service: ^0.6.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+ 

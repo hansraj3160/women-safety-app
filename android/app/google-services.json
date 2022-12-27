@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735378496499",
+    "project_id": "child-safety-sos",
+    "storage_bucket": "child-safety-sos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735378496499:android:e066c29c2723cba7bf9086",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735378496499-6dvqomp49s7d8j2k0nmf9kmcls498gni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-Jd87mM6jaf4v8twRLphq8C0ucqzqVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735378496499-6dvqomp49s7d8j2k0nmf9kmcls498gni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
